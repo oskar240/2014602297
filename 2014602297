@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+<empresa>Patito.sa.cv.</empresa> 
+<materia>inteligencia</materia>
+<boleta>2014602297</boleta>
+<industria>1</industria>
+<coef>0</coef>
+<infraestructura>2494</infraestructura>
+<bancos>300</bancos>
+<insumo1>50</insumo1>
+<insumo2>40</insumo2>
+<en_proceso>2010</en_proceso>
+<mercancias>300</mercancias>
+<clientes>600</clientes>
+<hipotecas>3000</hipotecas>
+<proveedores>500</proveedores>
+<capital_social>2018</capital_social>
+<utilidades>-1800</utilidades>
+</empresa>
+<empresa>
+<materia>inteligencia</materia>
+
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+<empresa>Lypsa SA de CV</empresa> 
+<materia>Inteligencia de Negocios</materia>
+<boleta>2014601161</boleta>
+<industria>001</industria>
+<coef>0</coef>
+<infraestructura>1515</infraestructura>
+<bancos>150</bancos>
+<insumo1>200</insumo1>
+<insumo2>180</insumo2>
+<en_proceso>2018</en_proceso>
+<mercancias>285</mercancias>
+<clientes>550</clientes>
+<hipotecas>1500</hipotecas>
+<proveedores>750</proveedores>
+<capital_social>1994</capital_social>
+<utilidades>-1250</utilidades>
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+<empresa>Patito.sa.cv.</empresa> 
+<materia>inteligencia</materia>
+<boleta>2014602297</boleta>
+<industria>1</industria>
+<coef>0</coef>
+<infraestructura>2494</infraestructura>
+<bancos>300</bancos>
+<insumo1>50</insumo1>
+<insumo2>40</insumo2>
+<en_proceso>2010</en_proceso>
+<mercancias>300</mercancias>
+<clientes>600</clientes>
+<hipotecas>3000</hipotecas>
+<proveedores>500</proveedores>
+<capital_social>2018</capital_social>
+<utilidades>-1800</utilidades>
+</empresa>
+<empresa>
